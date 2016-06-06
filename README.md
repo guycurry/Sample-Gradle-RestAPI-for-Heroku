@@ -26,3 +26,10 @@ $ heroku open
 You will have to add '/greeting' to the end of the heroku app URL in order to get the expected JSON response.
 
 - [Java on Heroku](https://devcenter.heroku.com/categories/java)# Sample-Gradle-RestAPI-for-Heroku
+
+## References
+
+I combined the following two sources into this sample heroku app
+
+- [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+- [Getting Started with Gradle on Heroku](https://devcenter.heroku.com/articles/getting-started-with-gradle-on-heroku)
