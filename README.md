@@ -7,8 +7,8 @@ A VERY SIMPLE Gradle Rest API app, which can easily be deployed to Heroku.
 Make sure you have Java installed.  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone https://github.com/heroku/gradle-getting-started.git
-$ cd gradle-getting-started
+$ git clone https://github.com/guycurry/Sample-Gradle-RestAPI-for-Heroku.git
+$ cd Sample-Gradle-RestAPI-for-Heroku
 $ ./gradlew stage
 ```
 
